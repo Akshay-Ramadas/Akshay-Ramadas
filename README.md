@@ -15,11 +15,11 @@
 
 ```ts
 const akshay = {
-  role: "Software Engineer @ Bostrix (US startup, remote)",
+  role: "Full-Stack Software Engineer (remote)",
   from: "Kerala, India",
-  builds: ["AI products", "real-time apps", "marketplaces", "mobile apps"],
+  builds: ["web apps", "real-time systems", "marketplaces", "mobile apps"],
   dailyDrivers: ["Node.js", "TypeScript", "React", "PostgreSQL", "AWS"],
-  workflow: "Claude + Cursor to move fast, my own judgment to ship safely",
+  workflow: "small steps, quick feedback, steady releases",
   learning: ["Kubernetes", "system design at scale"],
   mindset: "ship it, watch it, make it better",
   openTo: "full-stack and backend roles, remote or otherwise",
@@ -30,18 +30,22 @@ const akshay = {
 
 ## How I work
 
-I'm a full-stack engineer, and I use AI tools like Claude and Cursor heavily because they make me faster. The tools write code quickly. I decide what to build, shape the architecture, and read, test and debug everything before it goes live. That mix is how I take a product from a rough idea to production quickly without leaving a mess behind.
+I like building things that people actually use, so my habits are simple:
 
-I like owning the whole thing: the database, the API, the screen the user sees and the server it runs on.
+- **Start with the problem.** I figure out what the user needs first, then pick the simplest stack that solves it.
+- **Get it in front of people early.** A rough version that real users touch teaches more than weeks of planning.
+- **Keep it simple.** Clear structure, readable code and no clever tricks, so the next person can pick it up easily.
+- **Make problems visible.** Error tracking, logs and monitoring from day one, so I hear about issues before users do.
+- **Own the full stack.** Database, API, screen and server. If something breaks anywhere in that chain, I can follow it down.
 
 <br>
 
 ## Things I've shipped
 
-- **An AI assistant that talks to a company's private data.** Ask a question in plain language, get an answer backed by the company's own records. The data never leaves their systems.
-- **A marketplace that delivers cakes.** Ordering, pricing, delivery estimates, scheduling, and AI that designs a custom cake from a description. It runs on the web and on phones.
-- **An app where you learn a language by calling an AI.** Real-time voice, you can interrupt it mid-sentence, it speaks with a native accent, and it answers fast enough to feel like a real call. Native on iOS and Android.
+- **A marketplace that delivers cakes.** Ordering, pricing, delivery estimates and scheduling, with custom cake designs generated from a description. It runs on the web and on phones.
 - **A single dashboard for sellers on many marketplaces.** Orders from Shopify and Amazon appear live, and each business gets its own team and admin space.
+- **A language learning app built around live voice.** You talk, you can interrupt mid-sentence, and it replies fast enough to feel like a real call. Native on iOS and Android.
+- **A tool that answers questions about a company's own data.** Ask in plain language and get an answer backed by their records, which stay inside their systems.
 - **A platform that runs a college day to day.** Attendance, assignments, chat and video classes, with the right access for students, staff and admins.
 
 Two of these I led from the first conversation to real customers.
@@ -52,7 +56,7 @@ Two of these I led from the first conversation to real customers.
 
 - **Going from zero to production.** Requirements, database design, APIs, frontend, deployment, monitoring.
 - **Connecting systems.** OAuth, Shopify, Amazon, Stripe, Razorpay and whatever API comes next.
-- **Real-time and AI features.** Socket.IO, WebRTC, LiveKit, RAG and LLMs that actually ship.
+- **Real-time features.** Live dashboards, chat, video and voice using Socket.IO, WebRTC and LiveKit.
 - **Finding the bug.** Slow queries, flaky APIs, odd production behaviour. I enjoy chasing these down.
 - **Working in a team.** Git, Jira, Agile sprints and clear communication across time zones.
 
