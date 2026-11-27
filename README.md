@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:05070d,60:0f172a,100:2563eb&text=akshay%20ramadas&fontColor=ffffff&fontSize=46&fontAlign=50&fontAlignY=42&desc=vibe%20engineer%20%C2%B7%20full-stack%20%C2%B7%20ai-native&descSize=18&descAlignY=66" width="100%" alt="Akshay Ramadas, vibe engineer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:05070d,60:0f172a,100:2563eb&text=akshay%20ramadas&fontColor=ffffff&fontSize=46&fontAlign=50&fontAlignY=42&desc=full-stack%20software%20engineer%20%C2%B7%20backend%20%C2%B7%20frontend%20%C2%B7%20cloud&descSize=18&descAlignY=66" width="100%" alt="Akshay Ramadas, Full-Stack Software Engineer" />
 
 <p align="center">
   I turn ideas into working products, fast.<br>
@@ -30,7 +30,7 @@ const akshay = {
 
 ## How I work
 
-I'm a vibe engineer. I use AI tools like Claude and Cursor heavily, and I think that's the right way to build now. The tools write fast. I decide what to build, shape the architecture, and read, test and debug everything before it goes live. That mix is how I can take a product from a rough idea to production quickly without leaving a mess behind.
+I'm a full-stack engineer, and I use AI tools like Claude and Cursor heavily because they make me faster. The tools write code quickly. I decide what to build, shape the architecture, and read, test and debug everything before it goes live. That mix is how I take a product from a rough idea to production quickly without leaving a mess behind.
 
 I like owning the whole thing: the database, the API, the screen the user sees and the server it runs on.
 
