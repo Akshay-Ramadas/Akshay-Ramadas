@@ -1,52 +1,64 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0b1220,100:1d4ed8&text=Akshay%20Ramadas&fontColor=ffffff&fontSize=44&fontAlign=50&fontAlignY=45&desc=Full-Stack%20Software%20Engineer&descSize=18&descAlignY=68" width="100%" alt="Akshay Ramadas, Full-Stack Software Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:05070d,60:0f172a,100:2563eb&text=akshay%20ramadas&fontColor=ffffff&fontSize=46&fontAlign=50&fontAlignY=42&desc=vibe%20engineer%20%C2%B7%20full-stack%20%C2%B7%20ai-native&descSize=18&descAlignY=66" width="100%" alt="Akshay Ramadas, vibe engineer" />
 
 <p align="center">
-  <a href="https://portfolio-reo6.onrender.com"><img src="https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  I turn ideas into working products, fast.<br>
+  Idea in the morning, something real on a server by the weekend.
+</p>
+
+<p align="center">
+  <a href="https://portfolio-reo6.onrender.com"><img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/akshay-ramadas-1617801b2"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:eramthottilakshay@gmail.com"><img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:eramthottilakshay@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br>
 
-## About me
-
-- I'm Akshay, a software engineer from Kerala, India.
-- I work at Bostrix, a US-based startup, as a full-stack engineer on a remote, international team.
-- I studied Computer Science and Engineering at APJ Abdul Kalam Technological University (2020 to 2024).
-- My main tools are Node.js, TypeScript and React, backed by PostgreSQL, MongoDB and AWS.
-- I like building products that use AI, work in real time, or connect many systems together.
-- I take ownership of what I build, from the first idea to production and after release.
-- I use AI tools such as Claude and Cursor to move faster, but I still review, test and debug everything myself.
-- Right now I'm learning Kubernetes and going deeper into system design.
-- I'm open to full-stack and backend roles, remote or otherwise.
-
-<br>
-
-## What I've built
-
-**Software Engineer at Bostrix Inc** &nbsp;·&nbsp; Sep 2024 to present
-
-- Led two products end to end, from requirements to production, and both reached real customers.
-- Built a private AI assistant that lets a company ask questions about its own databases in plain language, using RAG. Small desktop connectors for Windows and macOS keep the data inside the organization.
-- Built a quick-commerce marketplace with ordering, pricing, delivery estimates and scheduling, AI-generated custom designs, and mobile apps from the same codebase.
-- Built a language learning app with real-time, phone-call style voice conversations, interruption handling and low latency, with native iOS and Android apps.
-- Built a dashboard for online sellers that pulls orders from Shopify and Amazon, updates live, and supports multiple organizations with their own teams.
-- Built a campus management platform with attendance, assignments, chat, video classes and role-based access.
-- Wrote OAuth-based APIs and third-party integrations, and fixed performance and reliability issues in production systems.
+```ts
+const akshay = {
+  role: "Software Engineer @ Bostrix (US startup, remote)",
+  from: "Kerala, India",
+  builds: ["AI products", "real-time apps", "marketplaces", "mobile apps"],
+  dailyDrivers: ["Node.js", "TypeScript", "React", "PostgreSQL", "AWS"],
+  workflow: "Claude + Cursor to move fast, my own judgment to ship safely",
+  learning: ["Kubernetes", "system design at scale"],
+  mindset: "ship it, watch it, make it better",
+  openTo: "full-stack and backend roles, remote or otherwise",
+};
+```
 
 <br>
 
-## What I bring
+## How I work
 
-- **Ownership.** I take features from idea to production and stay with them after release.
-- **Full-stack range.** Backend services, React frontends, native mobile and cloud setup, all in one person.
-- **Integrations.** Comfortable with OAuth 2.0 and third-party APIs such as Shopify, Amazon SP-API, Stripe and Razorpay.
-- **Real-time and AI work.** Socket.IO, WebRTC, LiveKit, RAG and LLM features that are shipped, not just prototyped.
-- **Production habits.** Monitoring with Sentry and CloudWatch, careful debugging, and working through Git and Jira in Agile teams.
+I'm a vibe engineer. I use AI tools like Claude and Cursor heavily, and I think that's the right way to build now. The tools write fast. I decide what to build, shape the architecture, and read, test and debug everything before it goes live. That mix is how I can take a product from a rough idea to production quickly without leaving a mess behind.
+
+I like owning the whole thing: the database, the API, the screen the user sees and the server it runs on.
 
 <br>
 
-## Skills
+## Things I've shipped
+
+- **An AI assistant that talks to a company's private data.** Ask a question in plain language, get an answer backed by the company's own records. The data never leaves their systems.
+- **A marketplace that delivers cakes.** Ordering, pricing, delivery estimates, scheduling, and AI that designs a custom cake from a description. It runs on the web and on phones.
+- **An app where you learn a language by calling an AI.** Real-time voice, you can interrupt it mid-sentence, it speaks with a native accent, and it answers fast enough to feel like a real call. Native on iOS and Android.
+- **A single dashboard for sellers on many marketplaces.** Orders from Shopify and Amazon appear live, and each business gets its own team and admin space.
+- **A platform that runs a college day to day.** Attendance, assignments, chat and video classes, with the right access for students, staff and admins.
+
+Two of these I led from the first conversation to real customers.
+
+<br>
+
+## What I'm good at
+
+- **Going from zero to production.** Requirements, database design, APIs, frontend, deployment, monitoring.
+- **Connecting systems.** OAuth, Shopify, Amazon, Stripe, Razorpay and whatever API comes next.
+- **Real-time and AI features.** Socket.IO, WebRTC, LiveKit, RAG and LLMs that actually ship.
+- **Finding the bug.** Slow queries, flaky APIs, odd production behaviour. I enjoy chasing these down.
+- **Working in a team.** Git, Jira, Agile sprints and clear communication across time zones.
+
+<br>
+
+## Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,express,react,nextjs,tailwind,swift,kotlin&perline=10" /><br>
@@ -54,18 +66,14 @@
   <img src="https://skillicons.dev/icons?i=git,github,jira,sentry,figma&perline=10" />
 </p>
 
-| | |
-|---|---|
-| **Languages** | TypeScript, JavaScript, Python, SQL, Swift, Kotlin |
-| **Frontend** | React, Next.js, Tailwind CSS, Shadcn UI, Capacitor |
-| **Backend** | Node.js, Express, REST APIs, OAuth 2.0, JWT, Socket.IO, WebRTC, LiveKit |
-| **Databases** | PostgreSQL, MongoDB, Redis, Supabase |
-| **Cloud and DevOps** | AWS (EC2, S3, SQS, Elastic Beanstalk, Route 53, CloudWatch), Docker, CI/CD, Kubernetes (learning) |
-| **AI** | Gemini, Vertex AI, RAG, AI agents, prompt engineering |
-| **Payments and platforms** | Stripe, Razorpay, Shopify API, Amazon SP-API |
+<p align="center">
+  <sub>AWS (EC2, S3, SQS, Elastic Beanstalk, CloudWatch) &nbsp;·&nbsp; OAuth 2.0 &nbsp;·&nbsp; Socket.IO &nbsp;·&nbsp; WebRTC &nbsp;·&nbsp; LiveKit &nbsp;·&nbsp; Gemini &nbsp;·&nbsp; Vertex AI &nbsp;·&nbsp; RAG &nbsp;·&nbsp; Capacitor &nbsp;·&nbsp; Shopify API &nbsp;·&nbsp; Amazon SP-API</sub>
+</p>
 
 <br>
 
-## Contact
+## Say hi
+
+If you're building something and need someone who can take it all the way, let's talk.
 
 [eramthottilakshay@gmail.com](mailto:eramthottilakshay@gmail.com) &nbsp;·&nbsp; [Portfolio](https://portfolio-reo6.onrender.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/akshay-ramadas-1617801b2)
