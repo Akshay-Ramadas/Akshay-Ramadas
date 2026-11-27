@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Akshay 👋</h1>
+[<h1 align="center">Hi, I'm Akshay 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Node.js+%7C+TypeScript+%7C+React;AI-powered+products+to+production;Building+in+Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
@@ -113,3 +113,4 @@ I'm open to **full-stack and backend roles** (remote friendly).
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=100&section=footer" />
 </p>
+](https://portfolio-reo6.onrender.com)
