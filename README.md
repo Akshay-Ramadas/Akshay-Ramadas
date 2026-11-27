@@ -1,11 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0b1220,100:1d4ed8&text=Akshay%20Ramadas&fontColor=ffffff&fontSize=44&fontAlign=50&fontAlignY=45&desc=Full-Stack%20Software%20Engineer&descSize=18&descAlignY=68" width="100%" alt="Akshay Ramadas, Full-Stack Software Engineer" />
 
 <p align="center">
-  Node.js, TypeScript and React, with a focus on AI-powered products, real-time systems and cloud infrastructure.<br>
-  Based in Kerala, India. Working remotely with a US-based team.
-</p>
-
-<p align="center">
   <a href="https://portfolio-reo6.onrender.com"><img src="https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/akshay-ramadas-1617801b2"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:eramthottilakshay@gmail.com"><img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -13,19 +8,31 @@
 
 <br>
 
-## Experience
+## About me
 
-**Software Engineer, Bostrix Inc** &nbsp;·&nbsp; Sep 2024 to present
+- I'm Akshay, a software engineer from Kerala, India.
+- I work at Bostrix, a US-based startup, as a full-stack engineer on a remote, international team.
+- I studied Computer Science and Engineering at APJ Abdul Kalam Technological University (2020 to 2024).
+- My main tools are Node.js, TypeScript and React, backed by PostgreSQL, MongoDB and AWS.
+- I like building products that use AI, work in real time, or connect many systems together.
+- I take ownership of what I build, from the first idea to production and after release.
+- I use AI tools such as Claude and Cursor to move faster, but I still review, test and debug everything myself.
+- Right now I'm learning Kubernetes and going deeper into system design.
+- I'm open to full-stack and backend roles, remote or otherwise.
 
-I work with senior engineers at a US startup, building and improving MERN-stack products. I led two projects end to end, from requirements to production, and both went on to real customers. Along the way I have built:
+<br>
 
-- **An enterprise AI assistant** that answers questions over a company's own databases using RAG, with desktop connectors for Windows and macOS so the data stays inside the organization.
-- **LetsBake**, an AI-powered quick-commerce marketplace for bakeries, with a pricing engine, delivery estimates, order scheduling, AI cake design generation and mobile apps built with Capacitor.
-- **Voxify**, a language learning app with real-time, phone-call style voice practice using LiveKit and Gemini, plus native iOS and Android apps.
-- **An e-commerce seller analytics platform** that connects Shopify and Amazon SP-API, with live order updates over Socket.IO and multi-organization team management.
-- **A student management system** covering attendance, assignments, chat, video conferencing and role-based access.
+## What I've built
 
-Across these I handle API design, database modelling, OAuth integrations, AWS deployment, and tracking down performance and reliability problems in production.
+**Software Engineer at Bostrix Inc** &nbsp;·&nbsp; Sep 2024 to present
+
+- Led two products end to end, from requirements to production, and both reached real customers.
+- Built a private AI assistant that lets a company ask questions about its own databases in plain language, using RAG. Small desktop connectors for Windows and macOS keep the data inside the organization.
+- Built a quick-commerce marketplace with ordering, pricing, delivery estimates and scheduling, AI-generated custom designs, and mobile apps from the same codebase.
+- Built a language learning app with real-time, phone-call style voice conversations, interruption handling and low latency, with native iOS and Android apps.
+- Built a dashboard for online sellers that pulls orders from Shopify and Amazon, updates live, and supports multiple organizations with their own teams.
+- Built a campus management platform with attendance, assignments, chat, video classes and role-based access.
+- Wrote OAuth-based APIs and third-party integrations, and fixed performance and reliability issues in production systems.
 
 <br>
 
@@ -60,7 +67,5 @@ Across these I handle API design, database modelling, OAuth integrations, AWS de
 <br>
 
 ## Contact
-
-I'm open to full-stack and backend roles, remote or otherwise.
 
 [eramthottilakshay@gmail.com](mailto:eramthottilakshay@gmail.com) &nbsp;·&nbsp; [Portfolio](https://portfolio-reo6.onrender.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/akshay-ramadas-1617801b2)
