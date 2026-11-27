@@ -1,64 +1,66 @@
-<h1 align="center">Akshay Ramadas</h1>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0b1220,100:1d4ed8&text=Akshay%20Ramadas&fontColor=ffffff&fontSize=44&fontAlign=50&fontAlignY=45&desc=Full-Stack%20Software%20Engineer&descSize=18&descAlignY=68" width="100%" alt="Akshay Ramadas, Full-Stack Software Engineer" />
 
 <p align="center">
-  Full-stack software engineer from Kerala, India.<br>
-  I build web backends, AI features and mobile apps, and I like taking them all the way to production.
+  Node.js, TypeScript and React, with a focus on AI-powered products, real-time systems and cloud infrastructure.<br>
+  Based in Kerala, India. Working remotely with a US-based team.
 </p>
 
 <p align="center">
-  <a href="https://portfolio-reo6.onrender.com"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/akshay-ramadas-1617801b2"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:eramthottilakshay@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfolio-reo6.onrender.com"><img src="https://img.shields.io/badge/Portfolio-1d4ed8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/akshay-ramadas-1617801b2"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:eramthottilakshay@gmail.com"><img src="https://img.shields.io/badge/Email-0b1220?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br>
 
-## About
+## Experience
 
-I work as a software engineer at Bostrix, a US-based startup, mostly on Node.js, TypeScript and React. Over the last couple of years I have led two projects from the first idea to paying users, built OAuth-based integrations for e-commerce platforms, and added voice and language-model features using the Gemini API.
+**Software Engineer, Bostrix Inc** &nbsp;·&nbsp; Sep 2024 to present
 
-Day to day I spend my time on REST APIs, database design, AWS and figuring out why something is slow. I'm currently learning Kubernetes and getting better at system design.
+I work with senior engineers at a US startup, building and improving MERN-stack products. I led two projects end to end, from requirements to production, and both went on to real customers. Along the way I have built:
+
+- **An enterprise AI assistant** that answers questions over a company's own databases using RAG, with desktop connectors for Windows and macOS so the data stays inside the organization.
+- **LetsBake**, an AI-powered quick-commerce marketplace for bakeries, with a pricing engine, delivery estimates, order scheduling, AI cake design generation and mobile apps built with Capacitor.
+- **Voxify**, a language learning app with real-time, phone-call style voice practice using LiveKit and Gemini, plus native iOS and Android apps.
+- **An e-commerce seller analytics platform** that connects Shopify and Amazon SP-API, with live order updates over Socket.IO and multi-organization team management.
+- **A student management system** covering attendance, assignments, chat, video conferencing and role-based access.
+
+Across these I handle API design, database modelling, OAuth integrations, AWS deployment, and tracking down performance and reliability problems in production.
 
 <br>
 
-## Stack
+## What I bring
+
+- **Ownership.** I take features from idea to production and stay with them after release.
+- **Full-stack range.** Backend services, React frontends, native mobile and cloud setup, all in one person.
+- **Integrations.** Comfortable with OAuth 2.0 and third-party APIs such as Shopify, Amazon SP-API, Stripe and Razorpay.
+- **Real-time and AI work.** Socket.IO, WebRTC, LiveKit, RAG and LLM features that are shipped, not just prototyped.
+- **Production habits.** Monitoring with Sentry and CloudWatch, careful debugging, and working through Git and Jira in Agile teams.
+
+<br>
+
+## Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,express,react,nextjs,tailwind,swift,kotlin&perline=10" /><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,firebase,aws,docker,kubernetes,linux,gcp&perline=10" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,jira,sentry,figma&perline=10" />
+</p>
 
 | | |
 |---|---|
 | **Languages** | TypeScript, JavaScript, Python, SQL, Swift, Kotlin |
-| **Frontend** | React, Next.js, Tailwind CSS, Capacitor |
-| **Backend** | Node.js, Express, REST, OAuth 2.0, Socket.IO, WebRTC, LiveKit |
-| **Data** | PostgreSQL, MongoDB, Redis, Supabase |
-| **Cloud and tools** | AWS (EC2, S3, SQS, Elastic Beanstalk), Docker, Git, Jira, Sentry |
-| **AI** | Gemini, Vertex AI, RAG, prompt engineering |
+| **Frontend** | React, Next.js, Tailwind CSS, Shadcn UI, Capacitor |
+| **Backend** | Node.js, Express, REST APIs, OAuth 2.0, JWT, Socket.IO, WebRTC, LiveKit |
+| **Databases** | PostgreSQL, MongoDB, Redis, Supabase |
+| **Cloud and DevOps** | AWS (EC2, S3, SQS, Elastic Beanstalk, Route 53, CloudWatch), Docker, CI/CD, Kubernetes (learning) |
+| **AI** | Gemini, Vertex AI, RAG, AI agents, prompt engineering |
+| **Payments and platforms** | Stripe, Razorpay, Shopify API, Amazon SP-API |
 
 <br>
 
-## Projects
-
-### Enterprise AI Assistant
-An assistant that lets a company ask questions about its own databases in plain language and get answers with the supporting data. A small connector app for Windows and macOS runs inside the company and fetches only what each question needs, so the records are never copied to a central server.
-`Node.js` `React` `RAG` `LLMs`
-
-### LetsBake
-A quick-commerce marketplace that connects customers with local bakeries. It handles pricing, delivery estimates, order scheduling and the full order lifecycle, and it can generate custom cake designs with AI. It runs on the web and as mobile apps.
-`Node.js` `React` `PostgreSQL` `Supabase` `AWS` `Vertex AI` `Capacitor`
-
-### Voxify
-A language learning app where you practise by talking, as if on a phone call. It handles interruptions, simulates native accents and keeps latency low so the conversation feels natural. Native apps for iOS and Android, with a TypeScript backend.
-`Swift` `Kotlin` `Express` `LiveKit` `Gemini`
-
-### Ecom Seller Analytics
-One dashboard for sellers who sell on several marketplaces. It pulls orders from Shopify and Amazon, updates them live, and supports multiple organizations with their own teams and admins.
-`TypeScript` `React` `MongoDB` `Socket.IO` `AWS`
-
-### Student Management System
-A platform for running a college day to day: attendance, assignments, chat, video classes and role-based access for students, staff and admins.
-`Node.js` `React` `TypeScript` `MongoDB`
-
-<br>
-
-## Get in touch
+## Contact
 
 I'm open to full-stack and backend roles, remote or otherwise.
-Email me at [eramthottilakshay@gmail.com](mailto:eramthottilakshay@gmail.com) or see more of my work on my [portfolio](https://portfolio-reo6.onrender.com).
+
+[eramthottilakshay@gmail.com](mailto:eramthottilakshay@gmail.com) &nbsp;·&nbsp; [Portfolio](https://portfolio-reo6.onrender.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/akshay-ramadas-1617801b2)
